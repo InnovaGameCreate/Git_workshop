@@ -1,11 +1,6 @@
 AAA
-<<<<<<< HEAD
 FFF2
 GGG2
-=======
-BBB
-CCC
->>>>>>> bdb52f0eb77f7e3dc46b34b17ef2c0da7013ff10
 DDD
 EEE
 
